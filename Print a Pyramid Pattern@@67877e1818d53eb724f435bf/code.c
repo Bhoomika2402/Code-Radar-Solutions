@@ -10,7 +10,7 @@ int main() {
     // Loop to print each row
     for(i = 1; i <= n; i++) {
         // Print spaces before the stars
-        for(j=n-i;j>=0); {
+        for(j=n-i;j>=0) {
             printf(" ");
         }
 
