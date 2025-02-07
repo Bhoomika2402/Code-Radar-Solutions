@@ -15,7 +15,7 @@ int main() {
         }
 
         // Print stars in each row
-        for(int k = 1; j <= (2 * i - 1); j++) {
+        for(int k = 1; k <= (2 * i - 1); k++) {
             printf("*");
         }
 
