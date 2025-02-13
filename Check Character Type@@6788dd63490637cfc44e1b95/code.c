@@ -6,7 +6,7 @@ int main()
     int n=ch;
     if(n>=65&&n<=90||n>=97&&n<=122)
     {
-        if(ch==a||ch==i||ch==u||ch==o||ch==e||ch==A||ch==E||ch==O||ch==I||ch==U)
+        if(ch=='a'|| ch =='u'|| ch =='i'|| ch=='o'||ch=='e'|| ch =='A'|| ch=='E'|| ch=='I'|| ch =='O'|| ch=='U')
         {
             printf("Vowel");
         }
